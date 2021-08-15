@@ -15,5 +15,5 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "scalable-dev" #Must be unique in Heroku
           heroku_email: "ogunwedejesufemi@gmail.com"
-          healthcheck: "https://scalable-dev.herokuapp.com/v1/models/default"
+          #healthcheck: "https://scalable-dev.herokuapp.com/v1/models/default"
           usedocker: true
