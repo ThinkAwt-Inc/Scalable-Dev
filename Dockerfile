@@ -1,12 +1,15 @@
 FROM tensorflow/serving
 
 ENV MODEL_BASE_PATH /models
-#ENV MODEL_NAME baseclf
+ENV MODEL_NAME baseclf
 ENV MODEL_CONFIG_FILE models.conf
 
-COPY models/baseclf models/baseclf
-COPY models/resnet models/resnet
+
+#Don't Touch
 COPY models/models.conf models/models.conf
+
+#add your new model path here
+COPY models/default models/default
 
 
 # Fix because base tf_serving_entrypoint.sh does not take $PORT env variable while $PORT is set by Heroku!
