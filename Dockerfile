@@ -11,8 +11,8 @@ COPY models/models.conf models/models.conf
 #add your new model path here
 COPY models/default models/default
 COPY models/tomato models/tomato
+COPY models/corn models/corn
 COPY models/potato models/potato
-
 
 
 # Fix because base tf_serving_entrypoint.sh does not take $PORT env variable while $PORT is set by Heroku!
