@@ -1,10 +1,11 @@
-﻿## PROJECT TITLE : Tensorflow Serving Server (Core Deep Learning API) For the Farmers Toolkit Project.
+﻿## PROJECT TITLE : 
+ Tensorflow Serving Server (Core Deep Learning API) For the Farmers Toolkit Project.
  
-# Scalable-Dev
+## Scalable-Dev
 
 This Repo holds the code for our Tensorflow Serving Server which is the Core Deep learning API for our Farmers_ToolKit Project
 
-# Documentation
+## Documentation
 
  ![thinkwt](https://user-images.githubusercontent.com/25388109/132993142-63297874-894f-4026-a684-b80c3e62cf85.png)
 
@@ -17,7 +18,7 @@ Each version of the model is available in the models folder, which gives room to
 - Model_version_policy
 
 The CI/CD workflow pipeline uses github actions to automate the workflow. The FASTAPI as the backend service and the Heroku.yml file serving as the container-based cloud platform 
-where we deploy, manage and scale our application. 
+where we deploy, manage and scale our application.
 
 
 ## PREREQUISITES:
@@ -37,6 +38,6 @@ Sooter Saalu  https://github.com/Soot3
 Ihuoma Basil https://github.com/Sillians
 
 
-## To Do:
+## HOW TO COLLABORATE:
 
-- add Guide on how the repo works and how to collaborate
+- 
