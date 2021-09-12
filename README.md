@@ -29,15 +29,13 @@ Installation -> Heroku.yml and the CD Pipeline declared via github actions
 
 
 ## AUTHORS :
-Emmanuel Ogunwede https://github.com/JesuFemi-O 
 
-Eni. C https://github.com/cornzyblack 
+[Emmanuel Ogunwede ](https://github.com/JesuFemi-O)
+<!-- Emmanuel Ogunwede https://github.com/JesuFemi-O  -->
+
+[Eni. C ] https://github.com/cornzyblack 
 
 Sooter Saalu  https://github.com/Soot3
 
 Ihuoma Basil https://github.com/Sillians
 
-
-## HOW TO COLLABORATE:
-
-- 
